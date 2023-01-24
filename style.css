@@ -1,0 +1,16 @@
+#tb {
+    border: dodgerblue 35px solid;
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+    cursor: pointer;
+}
+
+#tb td {
+    border: dodgerblue 2px solid;
+}
+
+#tb td:hover {
+    opacity: 90%;
+    transform: scale(1.06);
+}
